@@ -20,7 +20,5 @@
  - In the table above we concatenated the two list inestad of presenting two tables, because we wanted to exclude the data we don't need as well as showing the information that is useful to us in this report. 
  
 #Summary: 
-###How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 More than 50% of the work force is looking for retirement withing the next 10 years. I bilieve that there is still time for the company to traing the junior level employees, but a plan needs to be put in place. 
-
-## For such a big company as Pewlett Hackard, with so many employees, a program where juinior level employees can learn seneior level posisions and responsability should be made. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? Looking at the data it seems that there is notm but with the amount of time available the company has time to put a place in place. 
+For such a big company as Pewlett Hackard, with so many employees, a program where juinior level employees can learn seneior level posisions and responsability should be made. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? Looking at the data it seems that there is notm but with the amount of time available the company has time to put a place in place. 
